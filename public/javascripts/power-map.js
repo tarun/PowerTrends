@@ -3,12 +3,16 @@
 		var markerArray=[];
 		var thexml=null,thexml2=null;
 		var data=new Array(50);
-		for(var z=0;z<50;z++){data[z]=new Array(50);}
+		var data2=new Array(50);
+		for(var z=0;z<50;z++){
+			data[z]=new Array(50);
+			data2[z]=new Array(50);
+		}
 		function initialize() {
 
 				if (GBrowserIsCompatible()) {
 					map = new GMap2(document.getElementById('map'));
-					map.setCenter(new GLatLng(41.669074,-70.296205), 9);
+					map.setCenter(new GLatLng(41.669074,-70.296205), 10);
 					geocoder = new GClientGeocoder();
 					map.setUIToDefault();
 
@@ -38,6 +42,7 @@
 
 					}
 					}
+					
 
 			function doStuff(xml){
 
@@ -55,6 +60,7 @@
 
 							var temp=$(this).find('id').text();
 							data[i][temp]=$(this).find('level').text();
+							data2[i][temp]=$(this).find('actual_reading').text();
 						});
 					i++;
 					});
@@ -95,7 +101,20 @@
                                                                 
 								//marker.openInfoWindowHtml(address);
 								map.addOverlay(marker);
+<<<<<<< HEAD
                                                                 //marker.openInfoWindowHtml=("<h2>asdf</h2>", opts?:{maxWidth:200;});
+=======
+								
+								
+								GEvent.addListener(marker, "click", function() {
+                                
+                                // click function, call here
+                                data2[hour][id]=Math.round(data2[hour][id]*100)/100;
+                                marker.openInfoWindowHtml("<b>"+address+"</b><br><br>Avg. Usage "+data2[hour][id]+"kW");
+                                
+                                });
+								
+>>>>>>> 65b3575e353d8a33133dc85cafb0afc3f348df29
 							  }
 
 

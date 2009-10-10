@@ -90,6 +90,17 @@ class MainController < ApplicationController
 
     render :inline => weather
   end
+  
+def twitter_viz
+    date = Time.now.strftime("%Y-%m-%d").to_s
+    loc = 55
+    url = "http://comminfo.rutgers.edu/~hsbakshi/freq.php?loc=#{loc}&date=#{date}"
+    
+    resp = Net::HTTP.get_response(URI.parse(url))
+    data = resp.body
+   
+    render :inline => data
+  end  
 
   def get_tv_listings
     cur_time = Time.now

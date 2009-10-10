@@ -7,7 +7,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 body {
 	margin: 0;
 	padding: 0;
-	background: #F7F7F7 url(/images/img01.jpg) repeat left top;
+	background: #F7F7F7 url(/images//img01.jpg) repeat left top;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 14px;
 	color: #5A554E;
@@ -61,7 +61,7 @@ h2 a {
 #wrapper {
 	margin: 0px;
 	padding: 0px;
-	background: url(/images/img02.jpg) repeat-x left top;
+	background: url(/images//img02.jpg) repeat-x left top;
 }
 
 /* Header */
@@ -71,7 +71,7 @@ h2 a {
 	height: 235px;
 	margin: 0 auto;
 	padding: 0px;
-	background: url(/images/img03.jpg) no-repeat left top;
+	background: url(/images//img03.jpg) no-repeat left top;
 }
 
 /* Logo */
@@ -166,7 +166,7 @@ h2 a {
 	height: 65px;
 	margin: 0 auto;
 	padding: 0;
-	background: url(/images/img04.jpg) no-repeat left top;
+	background: url(/images//img04.jpg) no-repeat left top;
 }
 
 #menu ul {
@@ -187,7 +187,7 @@ h2 a {
 	height: 39px;
 	margin-left: 10px;
 	padding-top: 15px;
-	background: url(/images/img05.jpg) repeat-x left top;
+	background: url(/images//img05.jpg) repeat-x left top;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	text-decoration: none;
 	text-align: center;
@@ -202,7 +202,7 @@ h2 a {
 }
 
 #menu .current_page_item a {
-	background: url(/images/img06.jpg) no-repeat left top;
+	background: url(/images//img06.jpg) no-repeat left top;
 	padding-left: 0;
 	color: #493E2B;
 }
@@ -270,7 +270,7 @@ h2 a {
 }
 
 .post .entry {
-	background: url(/images/img08.jpg) no-repeat left top;
+	background: url(/images//img08.jpg) no-repeat left top;
 	padding: 25px 0px 0px 0px;
 	text-align: justify;
 }
@@ -281,7 +281,7 @@ h2 a {
 
 .more {
 	padding-left: 16px;
-	background: url(/images/img10.gif) no-repeat left 3px;
+	background: url(/images//img10.gif) no-repeat left 3px;
 	text-decoration: underline;
 	font-size: 12px;
 	font-weight: normal;
@@ -289,7 +289,7 @@ h2 a {
 
 .comments {
 	padding-left: 18px;
-	background: url(/images/img11.gif) no-repeat left 4px;
+	background: url(/images//img11.gif) no-repeat left 4px;
 	text-decoration: underline;
 	font-size: 12px;
 	font-weight: normal;
@@ -332,7 +332,7 @@ h2 a {
 	height: 19px;
 	margin-right: 16px;
 	padding: 4px 12px;
-	background: #3D2A0B url(/images/img12.jpg) repeat-x left top;
+	background: #3D2A0B url(/images//img12.jpg) repeat-x left top;
 	font-size: 12px;
 	color: #FFFFFF;
 }
@@ -343,7 +343,7 @@ h2 a {
 
 #sidebar h2 {
 	height: 65px;
-	background: url(/images/img09.jpg) no-repeat left bottom;
+	background: url(/images//img09.jpg) no-repeat left bottom;
 	letter-spacing: -.5px;
 	font-size: 28px;
 	color: #493E2B;
@@ -394,7 +394,7 @@ h2 a {
 	height: 255px;
 	margin: 0 auto;
 	padding: 60px 50px 0px 50px;
-	background: url(/images/img15.jpg) no-repeat left top;
+	background: url(/images//img15.jpg) no-repeat left top;
 	font-size: 12px;
 	color: #887450;
 }

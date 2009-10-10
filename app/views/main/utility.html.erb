@@ -24,20 +24,27 @@
 				<p class="meta">RT @m1keb I am going to use so much energy tomorrow! </p>
 				<div class="entry">
 	
-					It is imperative for today's utilities to keep the proper energy available to meet demand.
-					Storage is difficulty and predictive modeling only gets you so far.  Power Trends 3000
+					It is imperative for today's utilities to keep the the right amount of energy on standby to meet demand.
+					Storage is difficult and predictive modeling only gets you so far.  Power Trends 3000
 					allows energy providers the ability to leverage social media to predict load.  Events on
-					upcoming can be used to predict how many event attendees may not be home.  Tweets about 
+					sites such as <i>upcoming</i> can be used to predict how many event attendees may not be home.  Tweets about 
 					people's plans, television interests and even mood hold the key to predicting consumption.	
 				</div>
 			</div>
 			<div style="clear: both;">&nbsp;</div>
 			
+				<h2>Frequency of Tweets on the Cape</h2> <br />
+					<object width="530" height="400"> <param name="movie" value="/t.swf"> <embed src="/t.swf" width="530" height="400"> </embed>
+				<p />
+			
 				<h2>Upcoming Events on the Cape</h2>
 				<p />
+				
+				
+				
 				<ul>
 				<%@events.each { |e|%>
-					<li><%=e['start_date']%> - <%=e['name']%></li>
+					<li><a href="<%=e['url']%>" target="event"><%=e['start_date']%> - <%=e['name']%></a></li>
 				
 				<%}%>
 				</ul>
