@@ -130,6 +130,7 @@ $(document).ready(function(){
 		<ul>
 			<li <%if params[:action] != 'utility'%>class="current_page_item"<%end%>><a href="/">Consumers</a></li>
 			<li <%if params[:action] == 'utility'%>class="current_page_item"<%end%>><a href="/main/utility">Utilities</a></li>
+                        <li ><a href="/main/about">About</a></li>
 		</ul>
 	</div>
 	<!-- end #menu -->        
@@ -142,6 +143,24 @@ $(document).ready(function(){
 				<div class="entry">
                                   <div style="height:400px" id="map" style="width:600;height:400;"></div>
 				</div>
+                                <!-- BEGIN SLIDER STUFF -->
+<h1>Hello Slider</h1>
+<div id="slider-bg" class="yui-h-slider" tabindex="-1" title="Slider">
+    <div id="slider-thumb" class="yui-slider-thumb"><img src="/images/assets/thumb-n.gif" /></div>
+</div>
+
+<p>Pixel value: <span id="slider-value">0</span></p>
+
+<p>Converted value:
+<input autocomplete="off" id="slider-converted-value" type="text" value="0" size="4" maxlength="4" />
+</p>
+
+<!--We'll use these to trigger interactions with the Slider API -->
+<button id="putval">Change slider value to 100 (converted value 150)</button>
+<button id="getval">Write current value to the Logger</button>
+
+<!-- END SLIDER STUFF -->
+
 			</div>
 			<div style="clear: both;">&nbsp;</div>
 			
@@ -211,23 +230,6 @@ $(document).ready(function(){
 	<!-- end #page -->
 </div>
 
-<!-- BEGIN SLIDER STUFF -->
-<h1>Hello Slider</h1>
-<div id="slider-bg" class="yui-h-slider" tabindex="-1" title="Slider">
-    <div id="slider-thumb" class="yui-slider-thumb"><img src="/images/assets/thumb-n.gif" /></div>
-</div>
-
-<p>Pixel value: <span id="slider-value">0</span></p>
-
-<p>Converted value:
-<input autocomplete="off" id="slider-converted-value" type="text" value="0" size="4" maxlength="4" />
-</p>
-
-<!--We'll use these to trigger interactions with the Slider API -->
-<button id="putval">Change slider value to 100 (converted value 150)</button>
-<button id="getval">Write current value to the Logger</button>
-
-<!-- END SLIDER STUFF -->
 
 <div id="footer-content">
 
