@@ -12,27 +12,32 @@
 
 <link href="/stylesheets/style.css" rel="stylesheet" type="text/css" media="screen" />
 
-
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.0r4/build/fonts/fonts-min.css" />
 
   <!-- Dependencies -->
-<script type="text/javascript" src="http://yui.yahooapis.com/2.8.0r4/build/yahoo-dom-event/yahoo-dom-event.js"></script>
-<script type="text/javascript" src="http://yui.yahooapis.com/2.8.0r4/build/dragdrop/dragdrop-min.js"></script>
-
+<%= javascript_include_tag "http://yui.yahooapis.com/2.8.0r4/build/yahoo-dom-event/yahoo-dom-event.js" %>
+<%= javascript_include_tag "http://yui.yahooapis.com/2.8.0r4/build/dragdrop/dragdrop-min.js" %>
+<%= javascript_include_tag "http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAx53IJ8Jq0mwNkQxyokAKXhS2YnZvF3WmVAoDksZwyIH8olA0bxR81N9GX0gNoy1g299GGEZQZq15NA&sensor=false" %>
 <!-- Slider skin (optional) -->
-<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.0r4/build/slider/assets/skins/sam/slider.css" />
+<%=stylesheet_link_tag "http://yui.yahooapis.com/2.8.0r4/build/slider/assets/skins/sam/slider.css" %>
 
 <!-- Slider source file -->
-<script type="text/javascript" src="http://yui.yahooapis.com/2.8.0r4/build/slider/slider-min.js"></script>
-  <%= javascript_include_tag "jquery-1.3.2.min" %>
+<%= javascript_include_tag "http://yui.yahooapis.com/2.8.0r4/build/slider/slider-min.js" %>
+
+<!-- jQuery -->
+<%= javascript_include_tag "jquery-1.3.2.min","power-map", "widgets" %>
+
+<%= javascript_include_tag "http://widgets.twimg.com/j/1/widget.js" %>
+<%= stylesheet_link_tag "http://widgets.twimg.com/j/1/widget.css" %>
+
 
  <%= yield :head %>
 
 </head>
 
-<body>
+<body class="yui-skin-sam">
 
 <p style="color: green"><%= flash[:notice] %></p>
-
 <%= yield %>
 
 </body>

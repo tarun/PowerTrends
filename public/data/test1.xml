@@ -1,0 +1,6175 @@
+<feed>
+<locations>
+
+
+
+	<location>
+
+		<id>19</id>
+		<address>Hyannis, MA</address>
+	</location>
+
+
+
+	<location>
+		<id>9</id>
+		<address>E. Falmouth, MA</address>
+
+	</location>
+
+
+
+	<location>
+		<id>37</id>
+		<address>West Yarmouth, MA</address>
+	</location>
+
+
+	<location>
+		<id>26</id>
+		<address>Osterville, MA</address>
+	</location>
+
+
+
+	<location>
+		<id>15</id>
+
+		<address>Falmouth, MA</address>
+	</location>
+
+
+
+	<location>
+		<id>4</id>
+		<address>Cataumet, MA</address>
+	</location>
+
+
+
+
+
+	<location>
+		<id>10</id>
+		<address>East Falmouth, MA</address>
+
+	</location>
+
+
+
+
+</locations>
+
+
+
+
+
+	
+
+	
+	<timeframe datetime="2009-10-10 02:45:00 UTC">
+	
+		<reading>
+			<id>5</id>
+
+			<level>1</level>
+			<actual_reading>0.14659199863672</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>3</id>
+			<level>2</level>
+
+			<actual_reading>0.69892800847689</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>12</id>
+			<level>1</level>
+			<actual_reading>0.71265599131584</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>31</id>
+			<level>1</level>
+			<actual_reading>0.058463998138905</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>32</id>
+			<level>1</level>
+			<actual_reading>0.51145200035535</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>15</id>
+
+			<level>3</level>
+			<actual_reading>1.7970480322838</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>8</id>
+			<level>1</level>
+
+			<actual_reading>0.51753598451614</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>23</id>
+			<level>1</level>
+			<actual_reading>0</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>14</id>
+			<level>3</level>
+			<actual_reading>0.98405998945236</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>17</id>
+			<level>1</level>
+			<actual_reading>0.58670398592949</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>20</id>
+
+			<level>1</level>
+			<actual_reading>0.46454399824142</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>25</id>
+			<level>3</level>
+
+			<actual_reading>1.4959199527899</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>4</id>
+			<level>3</level>
+			<actual_reading>0.79790396988392</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>33</id>
+			<level>1</level>
+			<actual_reading>0.72000002861023</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>16</id>
+			<level>3</level>
+			<actual_reading>4.8028321266174</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>9</id>
+
+			<level>3</level>
+			<actual_reading>0.8668799996376</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>13</id>
+			<level>3</level>
+
+			<actual_reading>2.3230800032616</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>2</id>
+			<level>3</level>
+			<actual_reading>1.3265279531479</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>24</id>
+			<level>1</level>
+			<actual_reading>0.7610399723053</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>28</id>
+			<level>1</level>
+			<actual_reading>0.086400002241135</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>11</id>
+
+			<level>3</level>
+			<actual_reading>0.99273598194122</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>1</id>
+			<level>3</level>
+
+			<actual_reading>0.95803201198578</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>26</id>
+			<level>3</level>
+			<actual_reading>1.4103360176086</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>30</id>
+			<level>1</level>
+			<actual_reading>0.14572800695896</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>10</id>
+			<level>1</level>
+			<actual_reading>0.73353600502014</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>21</id>
+
+			<level>3</level>
+			<actual_reading>0.85824000835419</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>36</id>
+			<level>1</level>
+
+			<actual_reading>0.22665599919856</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>34</id>
+			<level>3</level>
+			<actual_reading>1.0368000268936</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>18</id>
+			<level>1</level>
+			<actual_reading>0.75139200687408</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+	</timeframe>
+	
+
+	
+	<timeframe datetime="2009-10-10 02:44:00 UTC">
+	
+		<reading>
+			<id>31</id>
+			<level>1</level>
+			<actual_reading>0.26855999231339</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>12</id>
+			<level>1</level>
+			<actual_reading>0.63355202476184</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+
+			<id>3</id>
+			<level>3</level>
+			<actual_reading>0.91982398430506</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>33</id>
+
+			<level>1</level>
+			<actual_reading>0.72000002861023</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>16</id>
+			<level>3</level>
+
+			<actual_reading>4.6139039993286</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>9</id>
+			<level>3</level>
+			<actual_reading>0.86975997686386</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>10</id>
+			<level>1</level>
+			<actual_reading>0.73324799537659</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>38</id>
+			<level>1</level>
+			<actual_reading>0.28799998760223</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>32</id>
+
+			<level>1</level>
+			<actual_reading>0.50551199703477</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>15</id>
+			<level>3</level>
+
+			<actual_reading>1.2509759664536</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>5</id>
+			<level>1</level>
+			<actual_reading>0.5508360080421</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>4</id>
+			<level>3</level>
+			<actual_reading>0.81482401490211</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>25</id>
+			<level>3</level>
+			<actual_reading>0.94391997655233</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>20</id>
+
+			<level>1</level>
+			<actual_reading>0.46864800155163</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>17</id>
+			<level>1</level>
+
+			<actual_reading>0.54277200996876</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>14</id>
+			<level>3</level>
+			<actual_reading>0.98175598680973</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>8</id>
+			<level>1</level>
+			<actual_reading>0.54979199171066</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>13</id>
+			<level>3</level>
+			<actual_reading>2.1117960363626</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>21</id>
+
+			<level>3</level>
+			<actual_reading>0.85849197953939</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>36</id>
+			<level>1</level>
+
+			<actual_reading>0.4451040122658</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>19</id>
+			<level>3</level>
+			<actual_reading>1.1879999935627</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id></id>
+			<level>3</level>
+			<actual_reading>3.7727999687195</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+
+			<id>6</id>
+			<level>1</level>
+			<actual_reading>0.14486399292946</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>22</id>
+
+			<level>3</level>
+			<actual_reading>6.617663860321</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>27</id>
+			<level>1</level>
+
+			<actual_reading>0.68270397186279</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>35</id>
+			<level>1</level>
+			<actual_reading>0.57686400413513</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>23</id>
+			<level>1</level>
+			<actual_reading>0</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>30</id>
+			<level>1</level>
+			<actual_reading>0.14572800695896</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>7</id>
+
+			<level>1</level>
+			<actual_reading>0.23039999604225</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>2</id>
+			<level>3</level>
+
+			<actual_reading>1.6379520495733</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>24</id>
+			<level>3</level>
+			<actual_reading>0.85132801532745</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>18</id>
+			<level>1</level>
+			<actual_reading>0.75139200687408</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>26</id>
+			<level>3</level>
+			<actual_reading>1.0944000482559</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>1</id>
+
+			<level>3</level>
+			<actual_reading>0.98006400465965</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>11</id>
+			<level>3</level>
+
+			<actual_reading>1.1370239853859</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>29</id>
+			<level>1</level>
+			<actual_reading>0.28799998760223</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>28</id>
+			<level>1</level>
+			<actual_reading>0.11858399957418</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>34</id>
+			<level>3</level>
+			<actual_reading>1.0368000268936</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+	</timeframe>
+	
+
+	
+	<timeframe datetime="2009-10-10 02:43:00 UTC">
+
+	
+		<reading>
+			<id>31</id>
+			<level>1</level>
+			<actual_reading>0.34560000896454</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>12</id>
+
+			<level>1</level>
+			<actual_reading>0.64732800920804</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>3</id>
+			<level>3</level>
+
+			<actual_reading>1.0319999655088</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>33</id>
+			<level>1</level>
+			<actual_reading>0.42436799407005</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>9</id>
+			<level>3</level>
+			<actual_reading>0.84671998023987</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>10</id>
+			<level>1</level>
+			<actual_reading>0.73838402827581</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>38</id>
+
+			<level>1</level>
+			<actual_reading>0.32342401146889</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>32</id>
+			<level>1</level>
+
+			<actual_reading>0.47192399622872</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>15</id>
+			<level>3</level>
+			<actual_reading>1.2544800043106</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>5</id>
+			<level>1</level>
+			<actual_reading>0.54496798291802</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>4</id>
+			<level>3</level>
+			<actual_reading>0.86076001822948</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>25</id>
+
+			<level>3</level>
+			<actual_reading>1.0538879732291</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>20</id>
+			<level>1</level>
+
+			<actual_reading>0.47390399873257</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>8</id>
+			<level>1</level>
+			<actual_reading>0.63863998651505</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>17</id>
+			<level>1</level>
+			<actual_reading>0.54810000211</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>14</id>
+			<level>3</level>
+			<actual_reading>0.97646398842335</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>13</id>
+
+			<level>3</level>
+			<actual_reading>2.4259680360556</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>21</id>
+			<level>3</level>
+
+			<actual_reading>0.85849202424288</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>36</id>
+			<level>1</level>
+			<actual_reading>0.50277601182461</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>34</id>
+			<level>3</level>
+			<actual_reading>1.0368000268936</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>19</id>
+			<level>3</level>
+			<actual_reading>1.2013199925423</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id></id>
+
+			<level>3</level>
+			<actual_reading>3.7913761138916</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>6</id>
+			<level>1</level>
+
+			<actual_reading>0.14486399292946</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>22</id>
+			<level>3</level>
+			<actual_reading>4.3928642272949</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>27</id>
+			<level>1</level>
+			<actual_reading>0.6861600279808</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>35</id>
+			<level>1</level>
+			<actual_reading>0.57513600587845</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>23</id>
+
+			<level>1</level>
+			<actual_reading>0.00086400000145659</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>16</id>
+			<level>1</level>
+
+			<actual_reading>0.22276799380779</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>7</id>
+			<level>1</level>
+			<actual_reading>0.23039999604225</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>2</id>
+			<level>3</level>
+			<actual_reading>1.6361280282338</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>30</id>
+			<level>1</level>
+			<actual_reading>0.14486399292946</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>18</id>
+
+			<level>1</level>
+			<actual_reading>0.7496640086174</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>26</id>
+			<level>3</level>
+
+			<actual_reading>1.0944000482559</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>1</id>
+			<level>3</level>
+			<actual_reading>0.98049598932266</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>11</id>
+			<level>3</level>
+			<actual_reading>1.1375999748707</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>29</id>
+			<level>1</level>
+			<actual_reading>0.28799998760223</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>28</id>
+
+			<level>1</level>
+			<actual_reading>0.11606400460005</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>24</id>
+			<level>3</level>
+
+			<actual_reading>0.86227202415466</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+	</timeframe>
+	
+
+	
+	<timeframe datetime="2009-10-10 02:42:00 UTC">
+	
+		<reading>
+			<id>31</id>
+			<level>1</level>
+
+			<actual_reading>0.34560000896454</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>12</id>
+			<level>1</level>
+			<actual_reading>0.6412800103426</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>3</id>
+			<level>3</level>
+			<actual_reading>0.98188801606496</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>33</id>
+			<level>1</level>
+			<actual_reading>0.4049279987812</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>16</id>
+
+			<level>1</level>
+			<actual_reading>0.24264000356197</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>9</id>
+			<level>3</level>
+
+			<actual_reading>0.84960001707077</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>10</id>
+			<level>1</level>
+			<actual_reading>0.72988800207774</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>38</id>
+			<level>1</level>
+			<actual_reading>0.37958401441574</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>32</id>
+			<level>1</level>
+			<actual_reading>0.46616400778294</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>15</id>
+
+			<level>3</level>
+			<actual_reading>1.2754079898198</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>5</id>
+			<level>1</level>
+
+			<actual_reading>0.54215997830033</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>4</id>
+			<level>3</level>
+			<actual_reading>0.85895997285843</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>25</id>
+			<level>3</level>
+			<actual_reading>1.2178079684575</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>20</id>
+			<level>1</level>
+			<actual_reading>0.47476799786091</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>8</id>
+
+			<level>1</level>
+			<actual_reading>0.64886397123337</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>17</id>
+			<level>1</level>
+
+			<actual_reading>0.55101598799229</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>14</id>
+			<level>3</level>
+			<actual_reading>0.92869199812412</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>13</id>
+			<level>3</level>
+			<actual_reading>2.6436959281564</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>21</id>
+			<level>3</level>
+			<actual_reading>0.85658397525549</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>36</id>
+
+			<level>1</level>
+			<actual_reading>0.49939199723303</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>7</id>
+			<level>1</level>
+
+			<actual_reading>0.23126399517059</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>19</id>
+			<level>3</level>
+			<actual_reading>1.1314079761505</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id></id>
+			<level>3</level>
+			<actual_reading>4.0353121757507</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+
+			<id>6</id>
+			<level>1</level>
+			<actual_reading>0.21340799331665</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>22</id>
+
+			<level>3</level>
+			<actual_reading>5.7883682250977</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>27</id>
+			<level>1</level>
+
+			<actual_reading>0.64800000190735</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>35</id>
+			<level>1</level>
+			<actual_reading>0.57599997520447</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>23</id>
+			<level>1</level>
+			<actual_reading>0.00086400000145659</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>2</id>
+			<level>3</level>
+			<actual_reading>1.6130880117416</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>24</id>
+
+			<level>3</level>
+			<actual_reading>0.86817598342896</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>34</id>
+			<level>3</level>
+
+			<actual_reading>1.0368000268936</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>30</id>
+			<level>1</level>
+			<actual_reading>0.14572800695896</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>18</id>
+			<level>1</level>
+			<actual_reading>0.75052797794342</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>26</id>
+			<level>3</level>
+			<actual_reading>1.0944000482559</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>1</id>
+
+			<level>3</level>
+			<actual_reading>0.98164802789688</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>11</id>
+			<level>3</level>
+
+			<actual_reading>1.137600004673</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>29</id>
+			<level>1</level>
+			<actual_reading>0.28799998760223</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>28</id>
+			<level>1</level>
+			<actual_reading>0.11901599913836</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+	</timeframe>
+	
+
+	
+	<timeframe datetime="2009-10-10 02:41:00 UTC">
+	
+		<reading>
+			<id>31</id>
+			<level>1</level>
+			<actual_reading>0.34560000896454</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>12</id>
+			<level>1</level>
+			<actual_reading>0.69292800625165</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+
+			<id>3</id>
+			<level>3</level>
+			<actual_reading>0.99192000428836</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>33</id>
+
+			<level>1</level>
+			<actual_reading>0.40320000052452</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>16</id>
+			<level>1</level>
+
+			<actual_reading>0.22708800435066</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>9</id>
+			<level>3</level>
+			<actual_reading>0.84960001707077</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>10</id>
+			<level>1</level>
+			<actual_reading>0.71884800990423</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>38</id>
+			<level>1</level>
+			<actual_reading>0.37439998984337</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>32</id>
+
+			<level>1</level>
+			<actual_reading>0.67607999593019</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>15</id>
+			<level>3</level>
+
+			<actual_reading>1.2911999771992</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>5</id>
+			<level>1</level>
+			<actual_reading>0.55764000862837</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>4</id>
+			<level>3</level>
+			<actual_reading>0.86486402153969</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>25</id>
+			<level>3</level>
+			<actual_reading>1.0982880294323</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>20</id>
+
+			<level>1</level>
+			<actual_reading>0.50227199494839</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>8</id>
+			<level>1</level>
+
+			<actual_reading>0.64209598302841</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>17</id>
+			<level>1</level>
+			<actual_reading>0.55569600313902</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>14</id>
+			<level>3</level>
+			<actual_reading>0.93398401141167</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>13</id>
+			<level>3</level>
+			<actual_reading>2.7790200486779</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>21</id>
+
+			<level>3</level>
+			<actual_reading>0.86526001244783</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>36</id>
+			<level>1</level>
+
+			<actual_reading>0.49960801191628</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>7</id>
+			<level>1</level>
+			<actual_reading>0.23039999604225</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id></id>
+			<level>3</level>
+			<actual_reading>4.0896000862122</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+
+			<id>19</id>
+			<level>3</level>
+			<actual_reading>1.1162879765034</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>6</id>
+
+			<level>1</level>
+			<actual_reading>0.29620799422264</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>22</id>
+			<level>3</level>
+
+			<actual_reading>6.1005601882935</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>27</id>
+			<level>1</level>
+			<actual_reading>0.67031997442245</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>35</id>
+			<level>1</level>
+			<actual_reading>0.57772797346115</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>23</id>
+			<level>1</level>
+			<actual_reading>0</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>2</id>
+
+			<level>3</level>
+			<actual_reading>1.6238399744034</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>24</id>
+			<level>3</level>
+
+			<actual_reading>0.86313599348068</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>34</id>
+			<level>3</level>
+			<actual_reading>1.0368000268936</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>30</id>
+			<level>1</level>
+			<actual_reading>0.14399999380112</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>18</id>
+			<level>1</level>
+			<actual_reading>0.75052797794342</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>26</id>
+
+			<level>3</level>
+			<actual_reading>1.0944000482559</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>1</id>
+			<level>3</level>
+
+			<actual_reading>0.982656031847</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>11</id>
+			<level>3</level>
+			<actual_reading>1.137600004673</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>29</id>
+			<level>1</level>
+			<actual_reading>0.28799998760223</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>28</id>
+			<level>1</level>
+			<actual_reading>0.1241279989481</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+	</timeframe>
+	
+
+	
+	<timeframe datetime="2009-10-10 02:40:00 UTC">
+
+	
+		<reading>
+			<id>23</id>
+			<level>1</level>
+			<actual_reading>0</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>35</id>
+
+			<level>1</level>
+			<actual_reading>0.57686400413513</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>5</id>
+			<level>1</level>
+
+			<actual_reading>0.561060000211</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>10</id>
+			<level>1</level>
+			<actual_reading>0.66105602184931</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>9</id>
+			<level>3</level>
+			<actual_reading>0.84096002578735</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>16</id>
+			<level>1</level>
+			<actual_reading>0.61473602056503</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>33</id>
+
+			<level>1</level>
+			<actual_reading>0.4049279987812</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>3</id>
+			<level>3</level>
+
+			<actual_reading>1.0599840084712</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>12</id>
+			<level>1</level>
+			<actual_reading>0.77083198229472</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>31</id>
+			<level>1</level>
+			<actual_reading>0.33983999490738</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>32</id>
+			<level>1</level>
+			<actual_reading>0.64274400472641</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>15</id>
+
+			<level>3</level>
+			<actual_reading>1.2732960035404</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>13</id>
+			<level>3</level>
+
+			<actual_reading>2.252591945231</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>14</id>
+			<level>3</level>
+			<actual_reading>0.99518399685621</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>17</id>
+			<level>1</level>
+			<actual_reading>0.54640799760818</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>8</id>
+			<level>1</level>
+			<actual_reading>0.53668802976608</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>20</id>
+
+			<level>1</level>
+			<actual_reading>0.71704798936844</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>25</id>
+			<level>3</level>
+
+			<actual_reading>0.90801602229476</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>4</id>
+			<level>3</level>
+			<actual_reading>0.8690399825573</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>38</id>
+			<level>1</level>
+			<actual_reading>0.37857601046562</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>21</id>
+			<level>3</level>
+			<actual_reading>0.87022801488638</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>27</id>
+
+			<level>1</level>
+			<actual_reading>0.6674399971962</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>22</id>
+			<level>3</level>
+
+			<actual_reading>3.6593279838562</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>6</id>
+			<level>1</level>
+			<actual_reading>0.30239999294281</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id></id>
+			<level>3</level>
+			<actual_reading>4.0239357948303</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+
+			<id>19</id>
+			<level>3</level>
+			<actual_reading>1.0969919860363</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>7</id>
+
+			<level>1</level>
+			<actual_reading>0.23212799429893</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>2</id>
+			<level>3</level>
+
+			<actual_reading>1.6641600131989</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>24</id>
+			<level>3</level>
+			<actual_reading>0.8707680106163</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>28</id>
+			<level>1</level>
+			<actual_reading>0.11649600416422</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>29</id>
+			<level>1</level>
+			<actual_reading>0.28799998760223</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>36</id>
+
+			<level>1</level>
+			<actual_reading>0.50328000076115</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>34</id>
+			<level>3</level>
+
+			<actual_reading>1.0368000268936</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>30</id>
+			<level>1</level>
+			<actual_reading>0.14558400213718</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>18</id>
+			<level>1</level>
+			<actual_reading>0.75052797794342</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>26</id>
+			<level>3</level>
+			<actual_reading>1.0926719903946</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>1</id>
+
+			<level>3</level>
+			<actual_reading>0.97955998778343</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>11</id>
+			<level>3</level>
+
+			<actual_reading>1.1358720064163</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+	</timeframe>
+	
+
+	
+	<timeframe datetime="2009-10-10 02:39:00 UTC">
+	
+		<reading>
+			<id>31</id>
+			<level>1</level>
+
+			<actual_reading>0.34560000896454</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>3</id>
+			<level>3</level>
+			<actual_reading>1.0368480086327</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>12</id>
+			<level>1</level>
+			<actual_reading>0.76751999060313</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>33</id>
+			<level>1</level>
+			<actual_reading>0.40406399965286</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>16</id>
+
+			<level>3</level>
+			<actual_reading>1.2401280403137</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>9</id>
+			<level>3</level>
+
+			<actual_reading>0.84096002578735</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>10</id>
+			<level>1</level>
+			<actual_reading>0.63840001821518</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>38</id>
+			<level>1</level>
+			<actual_reading>0.37526398897171</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>32</id>
+			<level>1</level>
+			<actual_reading>0.44578801095486</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>15</id>
+
+			<level>3</level>
+			<actual_reading>1.2380160192649</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>5</id>
+			<level>1</level>
+
+			<actual_reading>0.57509999349713</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>4</id>
+			<level>3</level>
+			<actual_reading>0.8648639768362</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>25</id>
+			<level>3</level>
+			<actual_reading>0.87892799203595</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>20</id>
+			<level>1</level>
+			<actual_reading>0.71236799657345</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>8</id>
+
+			<level>1</level>
+			<actual_reading>0.49550399184227</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>17</id>
+			<level>1</level>
+
+			<actual_reading>0.55684798210859</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>14</id>
+			<level>3</level>
+			<actual_reading>1.0013399869204</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>13</id>
+			<level>3</level>
+			<actual_reading>1.3927679732442</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>21</id>
+			<level>3</level>
+			<actual_reading>0.87098400294781</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>36</id>
+
+			<level>1</level>
+			<actual_reading>0.50320801138878</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>7</id>
+			<level>1</level>
+
+			<actual_reading>0.23039999604225</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>19</id>
+			<level>3</level>
+			<actual_reading>1.5361919999123</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id></id>
+			<level>3</level>
+			<actual_reading>3.9278879165649</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+
+			<id>6</id>
+			<level>1</level>
+			<actual_reading>0.31420800089836</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>22</id>
+
+			<level>3</level>
+			<actual_reading>6.721776008606</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>27</id>
+			<level>1</level>
+
+			<actual_reading>0.69033598899841</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>35</id>
+			<level>1</level>
+			<actual_reading>0.58449602127075</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>23</id>
+			<level>1</level>
+			<actual_reading>0</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>2</id>
+			<level>3</level>
+			<actual_reading>1.6737119356791</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>24</id>
+
+			<level>3</level>
+			<actual_reading>0.86054402589798</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>34</id>
+			<level>3</level>
+
+			<actual_reading>1.0385279655457</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>30</id>
+			<level>1</level>
+			<actual_reading>0.14486399292946</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>18</id>
+			<level>1</level>
+			<actual_reading>0.75139200687408</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>26</id>
+			<level>3</level>
+			<actual_reading>1.0944000482559</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>1</id>
+
+			<level>3</level>
+			<actual_reading>0.98215198516846</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>11</id>
+			<level>3</level>
+
+			<actual_reading>1.1367360055447</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>29</id>
+			<level>1</level>
+			<actual_reading>0.28799998760223</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>28</id>
+			<level>1</level>
+			<actual_reading>0.25430399179459</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+	</timeframe>
+	
+
+	
+	<timeframe datetime="2009-10-10 02:38:00 UTC">
+	
+		<reading>
+			<id>32</id>
+			<level>1</level>
+			<actual_reading>0.47077200561762</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>31</id>
+			<level>1</level>
+			<actual_reading>0.3447360098362</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+
+			<id>3</id>
+			<level>3</level>
+			<actual_reading>1.037951985995</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>12</id>
+
+			<level>1</level>
+			<actual_reading>0.73411201437314</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>33</id>
+			<level>1</level>
+
+			<actual_reading>0.40320000052452</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>16</id>
+			<level>3</level>
+			<actual_reading>1.2333600521088</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>9</id>
+			<level>3</level>
+			<actual_reading>0.84384000301361</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>10</id>
+			<level>1</level>
+			<actual_reading>0.63864000638326</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>15</id>
+
+			<level>3</level>
+			<actual_reading>1.2378239730994</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>13</id>
+			<level>3</level>
+
+			<actual_reading>1.2368159815669</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>34</id>
+			<level>3</level>
+			<actual_reading>1.0368000268936</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>5</id>
+			<level>1</level>
+			<actual_reading>0.57218401506543</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>4</id>
+			<level>3</level>
+			<actual_reading>0.86702401936054</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>25</id>
+
+			<level>3</level>
+			<actual_reading>0.95951996929944</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>20</id>
+			<level>1</level>
+
+			<actual_reading>0.70984800159931</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>8</id>
+			<level>1</level>
+			<actual_reading>0.59299200773239</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>17</id>
+			<level>1</level>
+			<actual_reading>0.45165600627661</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>14</id>
+			<level>3</level>
+			<actual_reading>1.0328759923577</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>38</id>
+
+			<level>1</level>
+			<actual_reading>0.37699198722839</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>21</id>
+			<level>3</level>
+
+			<actual_reading>0.9101520255208</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>36</id>
+			<level>1</level>
+			<actual_reading>0.50018399767578</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>7</id>
+			<level>1</level>
+			<actual_reading>0.2718720138073</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id></id>
+			<level>3</level>
+			<actual_reading>3.9355199337006</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>19</id>
+
+			<level>3</level>
+			<actual_reading>1.8031679987907</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>6</id>
+			<level>1</level>
+
+			<actual_reading>0.31679999828339</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>22</id>
+			<level>3</level>
+			<actual_reading>4.0056481361389</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>27</id>
+			<level>1</level>
+			<actual_reading>0.70055997371674</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>35</id>
+			<level>1</level>
+			<actual_reading>0.63187199831009</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>23</id>
+
+			<level>1</level>
+			<actual_reading>0.00086400000145659</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>2</id>
+			<level>3</level>
+
+			<actual_reading>1.6656959851583</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>24</id>
+			<level>3</level>
+			<actual_reading>0.80294400453568</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>18</id>
+			<level>1</level>
+			<actual_reading>0.75052797794342</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>30</id>
+			<level>1</level>
+			<actual_reading>0.14486399292946</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>26</id>
+
+			<level>3</level>
+			<actual_reading>1.0926719903946</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>1</id>
+			<level>3</level>
+
+			<actual_reading>0.98136001825333</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>11</id>
+			<level>3</level>
+			<actual_reading>1.0956960022449</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>29</id>
+			<level>1</level>
+			<actual_reading>0.28799998760223</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>28</id>
+			<level>1</level>
+			<actual_reading>0.35618400201201</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+	</timeframe>
+	
+
+	
+	<timeframe datetime="2009-10-10 02:37:00 UTC">
+
+	
+		<reading>
+			<id>31</id>
+			<level>1</level>
+			<actual_reading>0.34560000896454</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>3</id>
+
+			<level>3</level>
+			<actual_reading>1.14638398091</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>38</id>
+			<level>1</level>
+
+			<actual_reading>0.37526398897171</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>33</id>
+			<level>1</level>
+			<actual_reading>0.40406399965286</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>16</id>
+			<level>1</level>
+			<actual_reading>0.57513600587845</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>9</id>
+			<level>3</level>
+			<actual_reading>0.84960001707077</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>10</id>
+
+			<level>1</level>
+			<actual_reading>0.63782399892807</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>32</id>
+			<level>1</level>
+
+			<actual_reading>0.40903199464083</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>13</id>
+			<level>3</level>
+			<actual_reading>1.2459239959717</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>14</id>
+			<level>3</level>
+			<actual_reading>0.95209199935198</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>12</id>
+			<level>1</level>
+			<actual_reading>0.7355039815108</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>5</id>
+
+			<level>1</level>
+			<actual_reading>0.57193201035261</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>4</id>
+			<level>3</level>
+
+			<actual_reading>0.86500802636147</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>25</id>
+			<level>3</level>
+			<actual_reading>2.922335844487</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>20</id>
+			<level>1</level>
+			<actual_reading>0.5899680107832</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>8</id>
+			<level>1</level>
+			<actual_reading>0.60048002004623</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>17</id>
+
+			<level>1</level>
+			<actual_reading>0.44618399441242</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>15</id>
+			<level>3</level>
+
+			<actual_reading>1.2213120112816</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>21</id>
+			<level>3</level>
+			<actual_reading>0.94554001092911</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>36</id>
+			<level>1</level>
+			<actual_reading>0.50018399767578</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>7</id>
+			<level>1</level>
+			<actual_reading>0.28799998760223</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id></id>
+
+			<level>3</level>
+			<actual_reading>3.960000038147</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>19</id>
+			<level>3</level>
+
+			<actual_reading>1.0664640069008</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>6</id>
+			<level>1</level>
+			<actual_reading>0.31679999828339</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>22</id>
+			<level>3</level>
+			<actual_reading>6.8628959655762</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>27</id>
+			<level>1</level>
+			<actual_reading>0.69120001792908</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>23</id>
+
+			<level>1</level>
+			<actual_reading>0</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>35</id>
+			<level>3</level>
+
+			<actual_reading>0.80308800935745</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>2</id>
+			<level>3</level>
+			<actual_reading>1.6032000382741</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>24</id>
+			<level>3</level>
+			<actual_reading>0.81230401992798</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>34</id>
+			<level>3</level>
+			<actual_reading>1.0376640558243</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>18</id>
+
+			<level>1</level>
+			<actual_reading>0.75052797794342</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>30</id>
+			<level>1</level>
+
+			<actual_reading>0.14572800695896</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>26</id>
+			<level>3</level>
+			<actual_reading>1.0944000482559</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>1</id>
+			<level>3</level>
+			<actual_reading>1.1126160025597</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>11</id>
+			<level>3</level>
+			<actual_reading>1.1437200307846</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>29</id>
+
+			<level>1</level>
+			<actual_reading>0.28799998760223</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>28</id>
+			<level>1</level>
+
+			<actual_reading>0.36849598586559</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+	</timeframe>
+	
+
+	
+	<timeframe datetime="2009-10-10 02:36:00 UTC">
+	
+		<reading>
+			<id>34</id>
+			<level>3</level>
+
+			<actual_reading>1.0368000268936</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>30</id>
+			<level>1</level>
+			<actual_reading>0.14486399292946</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>18</id>
+			<level>3</level>
+			<actual_reading>0.7791839838028</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>26</id>
+			<level>3</level>
+			<actual_reading>1.0926719903946</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>1</id>
+
+			<level>3</level>
+			<actual_reading>1.1558879613876</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>32</id>
+			<level>1</level>
+
+			<actual_reading>0.48647999266783</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>14</id>
+			<level>1</level>
+			<actual_reading>0.61439999938011</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>36</id>
+			<level>1</level>
+			<actual_reading>0.50363999605179</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>21</id>
+			<level>3</level>
+			<actual_reading>0.88603200018406</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>38</id>
+
+			<level>1</level>
+			<actual_reading>0.37699198722839</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>10</id>
+			<level>1</level>
+
+			<actual_reading>0.52886399626732</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>17</id>
+			<level>1</level>
+			<actual_reading>0.35491200288137</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>25</id>
+			<level>3</level>
+			<actual_reading>3.6617040485144</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>4</id>
+			<level>3</level>
+			<actual_reading>1.4264639616013</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>7</id>
+
+			<level>1</level>
+			<actual_reading>0.28799998760223</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>13</id>
+			<level>3</level>
+
+			<actual_reading>1.3638239900271</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>11</id>
+			<level>3</level>
+			<actual_reading>1.3198319673538</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>23</id>
+			<level>1</level>
+			<actual_reading>0</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>35</id>
+			<level>3</level>
+			<actual_reading>0.80640000104904</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>15</id>
+
+			<level>1</level>
+			<actual_reading>0.18187199532986</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>27</id>
+			<level>1</level>
+
+			<actual_reading>0.66974401473999</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>22</id>
+			<level>3</level>
+			<actual_reading>6.5593438148499</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>6</id>
+			<level>1</level>
+			<actual_reading>0.31679999828339</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id></id>
+			<level>3</level>
+			<actual_reading>4.1022720336914</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>19</id>
+
+			<level>3</level>
+			<actual_reading>1.0406160056591</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>12</id>
+			<level>1</level>
+
+			<actual_reading>0.36043199896812</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>2</id>
+			<level>3</level>
+			<actual_reading>1.4420160055161</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>24</id>
+			<level>3</level>
+			<actual_reading>0.86313599348068</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>28</id>
+			<level>1</level>
+			<actual_reading>0.3739679902792</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>29</id>
+
+			<level>1</level>
+			<actual_reading>0.28886398673058</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>5</id>
+			<level>1</level>
+
+			<actual_reading>0.71947201589743</actual_reading>
+		</reading>
+
+	
+		
+
+
+
+
+
+	
+
+	
+		<reading>
+			<id>3</id>
+			<level>3</level>
+			<actual_reading>1.5344640016556</actual_reading>
+
+		</reading>
+
+	
+		
+
+
+
+
+
+</timeframe>
+
+
+</feed>
