@@ -31,9 +31,9 @@ $(document).ready(function(){
 	<!-- end #header -->
 	<div id="menu">
 		<ul>
-			<li <%if params[:action] != 'utility'%>class="current_page_item"<%end%>><a href="/">Consumers</a></li>
+			<li <%if params[:action] == 'index'%>class="current_page_item"<%end%>><a href="/">Consumers</a></li>
 			<li <%if params[:action] == 'utility'%>class="current_page_item"<%end%>><a href="/main/utility">Utilities</a></li>
-                        <li ><a href="/main/about">About</a></li>
+			<li <%if params[:action] == 'about'%>class="current_page_item"<%end%>><a href="/main/about">About</a></li>
 		</ul>
 	</div>
 	<!-- end #menu -->        
