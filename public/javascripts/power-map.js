@@ -3,12 +3,16 @@
 		var markerArray=[];
 		var thexml=null,thexml2=null;
 		var data=new Array(50);
-		for(var z=0;z<50;z++){data[z]=new Array(50);}
+		var data2=new Array(50);
+		for(var z=0;z<50;z++){
+			data[z]=new Array(50);
+			data2[z]=new Array(50);
+		}
 		function initialize() {
 
 				if (GBrowserIsCompatible()) {
 					map = new GMap2(document.getElementById('map'));
-					map.setCenter(new GLatLng(41.669074,-70.296205), 9);
+					map.setCenter(new GLatLng(41.669074,-70.296205), 10);
 					geocoder = new GClientGeocoder();
 					map.setUIToDefault();
 
@@ -38,6 +42,7 @@
 
 					}
 					}
+					
 
 			function doStuff(xml){
 
@@ -55,6 +60,7 @@
 
 							var temp=$(this).find('id').text();
 							data[i][temp]=$(this).find('level').text();
+							data2[i][temp]=$(this).find('actual_reading').text();
 						});
 					i++;
 					});
@@ -94,6 +100,16 @@
 								marker.getIcon().imageMap = [19,0,19,1,19,2,19,3,19,4,19,5,19,6,19,7,19,8,19,9,19,10,19,11,19,12,19,13,19,14,19,15,19,16,19,17,19,18,19,19,0,19,0,18,0,17,0,16,0,15,0,14,0,13,0,12,0,11,0,10,0,9,0,8,0,7,0,6,0,5,0,4,0,3,0,2,0,1,0,0];
 								//marker.openInfoWindowHtml(address);
 								map.addOverlay(marker);
+								
+								
+								GEvent.addListener(marker, "click", function() {
+                                
+                                // click function, call here
+                                data2[hour][id]=Math.round(data2[hour][id]*100)/100;
+                                marker.openInfoWindowHtml("<b>"+address+"</b><br><br>Avg. Usage "+data2[hour][id]+"kW");
+                                
+                                });
+								
 							  }
 
 
