@@ -43,6 +43,8 @@ class MainController < ApplicationController
 	@cities[36]='West Tisbury'
 	@cities[37]='West Yarmouth'
 	@cities[38]='Yarmouth Port'
+	
+	@cities = @cities.sort { |a,b| a[1] <=> b[1] }
   
   end
 
