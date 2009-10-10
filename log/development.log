@@ -6873,3 +6873,131 @@ Completed in 974ms (View: 24, DB: 0) | 200 OK [http://localhost/main/utility]
 Processing MainController#twitter_viz (for 127.0.0.1 at 2009-10-10 10:54:37) [GET]
   Parameters: {"loc"=>"55", "date"=>"2009-10-10", "req"=>"tweets"}
 Completed in 491ms (View: 119, DB: 0) | 200 OK [http://localhost/main/twitter_viz?loc=55&req=tweets&date=2009%2D10%2D10]
+
+
+Processing MainController#utility (for 127.0.0.1 at 2009-10-10 11:02:07) [GET]
+Rendering template within layouts/main
+Rendering main/utility
+Rendered main/_tv_listings (6.0ms)
+Completed in 5972ms (View: 5060, DB: 0) | 200 OK [http://localhost/main/utility]
+
+
+Processing MainController#twitter_viz (for 127.0.0.1 at 2009-10-10 11:02:15) [GET]
+  Parameters: {"loc"=>"55", "date"=>"2009-10-10", "req"=>"tweets"}
+Completed in 520ms (View: 113, DB: 0) | 200 OK [http://localhost/main/twitter_viz?date=2009%2D10%2D10&loc=55&req=tweets]
+
+
+Processing MainController#utility (for 127.0.0.1 at 2009-10-10 11:02:45) [GET]
+Rendering template within layouts/main
+Rendering main/utility
+Rendered main/_tv_listings (1.0ms)
+Completed in 1609ms (View: 24, DB: 0) | 200 OK [http://localhost/main/utility]
+
+
+Processing MainController#twitter_viz (for 127.0.0.1 at 2009-10-10 11:02:48) [GET]
+  Parameters: {"loc"=>"55", "date"=>"2009-10-10", "req"=>"tweets"}
+Completed in 3361ms (View: 51, DB: 0) | 200 OK [http://localhost/main/twitter_viz?date=2009%2D10%2D10&loc=55&req=tweets]
+
+
+Processing MainController#utility (for 127.0.0.1 at 2009-10-10 11:03:00) [GET]
+Rendering template within layouts/main
+Rendering main/utility
+Rendered main/_tv_listings (0.0ms)
+Completed in 1939ms (View: 24, DB: 0) | 200 OK [http://localhost/main/utility]
+
+
+Processing MainController#twitter_viz (for 127.0.0.1 at 2009-10-10 11:03:03) [GET]
+  Parameters: {"loc"=>"55", "date"=>"2009-10-10", "req"=>"tweets"}
+Completed in 479ms (View: 52, DB: 0) | 200 OK [http://localhost/main/twitter_viz?date=2009%2D10%2D10&loc=55&req=tweets]
+
+
+Processing MainController#utility (for 127.0.0.1 at 2009-10-10 11:03:11) [GET]
+Rendering template within layouts/main
+Rendering main/utility
+Rendered main/_tv_listings (0.0ms)
+Completed in 1791ms (View: 26, DB: 0) | 200 OK [http://localhost/main/utility]
+
+
+Processing MainController#twitter_viz (for 127.0.0.1 at 2009-10-10 11:03:13) [GET]
+  Parameters: {"loc"=>"55", "date"=>"2009-10-10", "req"=>"tweets"}
+Completed in 649ms (View: 51, DB: 0) | 200 OK [http://localhost/main/twitter_viz?date=2009%2D10%2D10&loc=55&req=tweets]
+
+
+Processing MainController#utility (for 127.0.0.1 at 2009-10-10 11:03:19) [GET]
+Rendering template within layouts/main
+Rendering main/utility
+Rendered main/_tv_listings (0.0ms)
+Completed in 698ms (View: 10, DB: 0) | 200 OK [http://localhost/main/utility]
+
+
+Processing MainController#twitter_viz (for 127.0.0.1 at 2009-10-10 11:03:21) [GET]
+  Parameters: {"loc"=>"55", "date"=>"2009-10-10", "req"=>"tweets"}
+Completed in 376ms (View: 53, DB: 0) | 200 OK [http://localhost/main/twitter_viz?date=2009%2D10%2D10&loc=55&req=tweets]
+
+
+Processing MainController#utility (for 127.0.0.1 at 2009-10-10 11:04:07) [GET]
+Rendering template within layouts/main
+Rendering main/utility
+Rendered main/_tv_listings (0.0ms)
+Completed in 802ms (View: 9, DB: 0) | 200 OK [http://localhost/main/utility]
+
+
+Processing MainController#twitter_viz (for 127.0.0.1 at 2009-10-10 11:04:08) [GET]
+  Parameters: {"loc"=>"55", "date"=>"2009-10-10", "req"=>"tweets"}
+Completed in 445ms (View: 54, DB: 0) | 200 OK [http://localhost/main/twitter_viz?date=2009%2D10%2D10&loc=55&req=tweets]
+
+
+Processing MainController#utility (for 127.0.0.1 at 2009-10-10 11:04:12) [GET]
+Rendering template within layouts/main
+Rendering main/utility
+Rendered main/_tv_listings (0.0ms)
+Completed in 548ms (View: 9, DB: 0) | 200 OK [http://localhost/main/utility]
+
+
+Processing MainController#twitter_viz (for 127.0.0.1 at 2009-10-10 11:04:14) [GET]
+  Parameters: {"loc"=>"55", "date"=>"2009-10-10", "req"=>"tweets"}
+Completed in 432ms (View: 55, DB: 0) | 200 OK [http://localhost/main/twitter_viz?date=2009%2D10%2D10&loc=55&req=tweets]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-10-10 11:04:17) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 32ms (View: 28, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#get_weather (for 127.0.0.1 at 2009-10-10 11:04:18) [GET]
+  Parameters: {"zipcode"=>"10036"}
+Completed in 77ms (View: 3, DB: 0) | 200 OK [http://localhost/main/get_weather?zipcode=10036]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-10-10 11:04:27) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#get_weather (for 127.0.0.1 at 2009-10-10 11:04:28) [GET]
+  Parameters: {"zipcode"=>"10036"}
+Completed in 88ms (View: 6, DB: 0) | 200 OK [http://localhost/main/get_weather?zipcode=10036]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-10-10 11:04:36) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#get_weather (for 127.0.0.1 at 2009-10-10 11:04:36) [GET]
+  Parameters: {"zipcode"=>"10036"}
+Completed in 73ms (View: 3, DB: 0) | 200 OK [http://localhost/main/get_weather?zipcode=10036]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-10-10 11:04:39) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#get_weather (for 127.0.0.1 at 2009-10-10 11:04:41) [GET]
+  Parameters: {"zipcode"=>"10036"}
+Completed in 4941ms (View: 3, DB: 0) | 200 OK [http://localhost/main/get_weather?zipcode=10036]
