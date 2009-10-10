@@ -1,10 +1,11 @@
-class MainController < ApplicationController
+class MainController < ApplicationController  
   layout 'main'
   
   def index
   
   
-  	@cities=Hash.new
+  
+  @cities=Hash.new
 	@cities[1]='Bourne'
 	@cities[2]='Brewster'
 	@cities[3]='Cape Cod'
@@ -45,6 +46,8 @@ class MainController < ApplicationController
 	@cities[38]='Yarmouth Port'
 	
 	@cities = @cities.sort { |a,b| a[1] <=> b[1] }
+
+    @tv_listings = get_tv_listings
   
   end
   
@@ -88,4 +91,41 @@ class MainController < ApplicationController
     render :inline => weather
   end
 
+  def get_tv_listings
+    cur_time = Time.now
+    
+    url = "http://www.tvguide.com/listings/data/ajaxcache.ashx?fmt=0&srvid=80001&gridmins=60&gridyr=#{cur_time.year}&gridmo=#{cur_time.month}&griddy=#{cur_time.day}&gridhr=13&chanrow=1&genre=0&favchan=false"
+    resp = Net::HTTP.get_response(URI.parse(url))
+    data = resp.body
+
+    listings = data.gsub(/\d+\s/,'|').squeeze('|').split('magic=|')[1].split('|')    
+    listings = listings.each_index{|x| (x%2 != 0)?listings[x]:nil}.compact.uniq
+
+    tv_shows = Hash.new
+#    min_score=0.0
+#    max_score=0.0
+#    cur_score=0.0
+    listings.each { |show|
+ #     cur_score = get_popularity(show).to_i
+ #     max_score = cur_score if(cur_score > max_score)
+#			min_score = cur_score if(cur_score < min_score)
+      tv_shows[show.strip]=rand(10)#cur_score
+    }
+
+#    updated_tv_shows = Hash.new
+
+#    factor = (max_score - min_score) / 10;
+#    tv_shows.each_pair {|key, value| updated_tv_shows[key.strip] = (((value-min_score)/factor)) }
+          
+#  updated_tv_shows
+
+    tv_shows
+  
+end
+
+def get_popularity(term)
+    BOSSMan.application_id = "a3mfZ2zV34HH4W8CuMagSfKAgCnhjFNobFvUgy9SnQlfX00OWbVMMm_HfuS9"
+    boss = BOSSMan::Search.web(term, { :count => 1, :filter => "-hate" })
+    boss.totalhits
+end
 end

@@ -52,9 +52,9 @@ links: '#1985b5'
 
     // The amount the slider moves when the value is changed with the arrow
     // keys
-    var keyIncrement = 6.7;
+    var keyIncrement = 10;
 
-    var tickSize = 6.7;
+    var tickSize = 10;
 
     Event.onDOMReady(function() {
 
