@@ -7001,3 +7001,36 @@ Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/]
 Processing MainController#get_weather (for 127.0.0.1 at 2009-10-10 11:04:41) [GET]
   Parameters: {"zipcode"=>"10036"}
 Completed in 4941ms (View: 3, DB: 0) | 200 OK [http://localhost/main/get_weather?zipcode=10036]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-10-10 11:19:23) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 90ms (View: 88, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#get_weather (for 127.0.0.1 at 2009-10-10 11:19:24) [GET]
+  Parameters: {"zipcode"=>"10036"}
+Completed in 1205ms (View: 16, DB: 0) | 200 OK [http://localhost/main/get_weather?zipcode=10036]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-10-10 11:24:25) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#get_weather (for 127.0.0.1 at 2009-10-10 11:24:26) [GET]
+  Parameters: {"zipcode"=>"10036"}
+Completed in 259ms (View: 9, DB: 0) | 200 OK [http://localhost/main/get_weather?zipcode=10036]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-10-10 11:24:36) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#get_weather (for 127.0.0.1 at 2009-10-10 11:24:37) [GET]
+  Parameters: {"zipcode"=>"10036"}
+Completed in 75ms (View: 4, DB: 0) | 200 OK [http://localhost/main/get_weather?zipcode=10036]
