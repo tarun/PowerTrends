@@ -47,7 +47,7 @@ class MainController < ApplicationController
 	
 	@cities = @cities.sort { |a,b| a[1] <=> b[1] }
 
-    @tv_listings = get_tv_listings
+    
   
   end
   
@@ -64,6 +64,8 @@ class MainController < ApplicationController
     
     }
     
+	#tv listings
+	@tv_listings = get_tv_listings
     
     # upcoming
     url = 'http://upcoming.yahooapis.com/services/rest/?method=event.search&api_key=1bb666b1b0&location=Cape%20Cod,MA&radius=50&min_date=2009-10-12&max_date=2009-10-20&format=json'
@@ -116,11 +118,12 @@ def twitter_viz
 #    min_score=0.0
 #    max_score=0.0
 #    cur_score=0.0
-    listings.each { |show|
+
+    listings.slice(1,20).each { |show|
  #     cur_score = get_popularity(show).to_i
  #     max_score = cur_score if(cur_score > max_score)
 #			min_score = cur_score if(cur_score < min_score)
-      tv_shows[show.strip]=rand(10)#cur_score
+      tv_shows[show.strip]=rand(4)#cur_score
     }
 
 #    updated_tv_shows = Hash.new

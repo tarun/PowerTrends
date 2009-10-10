@@ -65,7 +65,7 @@
 		<div id="sidebar">
 			<ul>
 				<li>
-					<h2>Lastest Images </h2>
+					<h2>Lastest Images </h2
 					
 					
 					
@@ -74,7 +74,6 @@
 				from Cape Cod residents
 				
 				<li>
-				
 			
 
 			<% @count=0
@@ -86,15 +85,22 @@
 					<%end%>
 				
 				<%}%>
-				
+				</li>
+				<li>
+				<h2>Upcoming TV</h2>
+				<div><%=render :partial => 'tv_listings' %></div>
+			</li>
+			</ul>	
 
 <div id="weather_info"></div>
 				<p />
 		 
 		</div>
 		<!-- end #sidebar -->
-		<div style="clear: both;">&nbsp;</div>
+		<div style="clear: both;">&nbsp;</div>		
 	</div>
+	
+	
 	<!-- end #page -->
 </div>
 <div id="footer-content">

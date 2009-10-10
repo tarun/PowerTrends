@@ -101,10 +101,7 @@
                                                                 
 								//marker.openInfoWindowHtml(address);
 								map.addOverlay(marker);
-<<<<<<< HEAD
-                                                                //marker.openInfoWindowHtml=("<h2>asdf</h2>", opts?:{maxWidth:200;});
-=======
-								
+                                //marker.openInfoWindowHtml=("<h2>asdf</h2>", opts?:{maxWidth:200;});							
 								
 								GEvent.addListener(marker, "click", function() {
                                 
@@ -114,7 +111,6 @@
                                 
                                 });
 								
->>>>>>> 65b3575e353d8a33133dc85cafb0afc3f348df29
 							  }
 
 
