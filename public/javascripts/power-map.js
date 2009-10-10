@@ -55,15 +55,10 @@
 
 							var temp=$(this).find('id').text();
 							data[i][temp]=$(this).find('level').text();
-						//	alert(i+" "+temp+" "+data[i][temp]);
 						});
 					i++;
 					});
-					//x();
-					//}
-					//function x(){
 
-			//var hour=$("#slider-converted-value").val();
 
 					$(thexml2).find('location').each(function(){
 					var id=$(this).find('id').text();
