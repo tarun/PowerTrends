@@ -12,3 +12,24 @@ function sliderInit() {
     slider = YAHOO.widget.Slider.getHorizSlider("sliderbg", "sliderthumb", 0, 200);
 }
 </script>
+
+
+<p>Weather Info</p><div id="weather_info"></div>
+<script type="text/javascript">
+var slider;
+
+function updateWeather() {
+  alert("1");
+    $.ajax({
+        type: "GET",
+        url: "http://localhost:3000/main/get_weather?zipcode=10036",
+        dataType: "text",
+        success: function(data) {
+            alert("2");
+              $("#weather_info").html(data);              
+        }
+    });
+}
+</script>
+
+<button type="button" onclick="javascript:updateWeather();">Click Me!</button>

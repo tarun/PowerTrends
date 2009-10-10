@@ -21,6 +21,22 @@ class GeoCoordinatesController < ApplicationController
     end
   end
 
+  # GET /geo_coordinates/1
+  # GET /geo_coordinates/1.xml
+  def get_latlng
+    place = params[:place]
+    @geo_coordinate = GeoCoordinate.find_by_place(place)
+
+    unless @geo_coordinate
+      
+    end
+
+    respond_to do |format|
+      format.html # show.html.erb
+      format.xml  { render :xml => @geo_coordinate }
+    end
+  end
+
   # GET /geo_coordinates/new
   # GET /geo_coordinates/new.xml
   def new
