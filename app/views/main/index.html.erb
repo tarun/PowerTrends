@@ -121,20 +121,24 @@ $(document).ready(function(){
 <div id="wrapper">
 	<div id="header">
 		<div id="logo">
-			<h1>POWER RACE 3000</h1>
+			<h1>POWER TRENDS 3000</h1>
+			<h3>second place is a set of steak knives</h3>
 		</div>
 	</div>
 	<!-- end #header -->
 	<div id="menu">
-	
+		<ul>
+			<li <%if params[:action] != 'utility'%>class="current_page_item"<%end%>><a href="/">Consumers</a></li>
+			<li <%if params[:action] == 'utility'%>class="current_page_item"<%end%>><a href="/main/utility">Utilities</a></li>
+		</ul>
 	</div>
 	<!-- end #menu -->        
 	<div id="page">
 		<div id="content">
 			
 			<div class="post">
-				<h2 class="title"><a href="#">What's going on right now</a></h2> 
-				<p class="meta">ENERGY SAVINGS = FIXED POTHOLES</p>
+				<h2 class="title"><a href="#">Don't Let Your Town Down</a></h2> 
+				<p class="meta">SAVE ENERGY = GET $$$ FOR POTHOLE REPAIR</p>
 				<div class="entry">
                                   <div style="height:400px" id="map" style="width:600;height:400;"></div>
 				</div>
@@ -187,7 +191,7 @@ $(document).ready(function(){
 		<div id="sidebar">
 			<ul>
 				<li>
-					<h2>Currently</h2>
+					<h2><%=(Time.now+10800).strftime("%I:%M %p")%></h2>
 					
 					
 					
@@ -232,7 +236,7 @@ $(document).ready(function(){
 
 </div>
 <div id="footer">
-	<p> (c) 2009 Sitename.com. Design by <a href="http://www.nodethirtythree.com">nodethirtythree</a> and <a href="http://www.freecsstemplates.org">Free CSS Templates</a>.</p>
+
 </div>
 <!-- end #footer -->
  

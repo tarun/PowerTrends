@@ -1,0 +1,113 @@
+<%=@point%>
+
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1>POWER TRENDS 3000</h1>
+			<h3>second place is a set of steak knives</h3>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			<li <%if params[:action] == 'index'%>class="current_page_item"<%end%>><a href="/">Consumers</a></li>
+			<li <%if params[:action] == 'utility'%>class="current_page_item"<%end%>><a href="/main/utility">Utilities</a></li>
+			<li <%if params[:action] == 'about'%>class="current_page_item"<%end%>><a href="/main/about">About</a></li>
+			</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+		<div id="content">
+			
+			<div class="post">
+				<h2 class="title"><a href="#">Forecast Demand with Social Media</a></h2> 
+				<p class="meta">RT @m1keb I am going to use so much energy tomorrow! </p>
+				<div class="entry">
+	
+					It is imperative for today's utilities to keep the proper energy available to meet demand.
+					Storage is difficulty and predictive modeling only gets you so far.  Power Trends 3000
+					allows energy providers the ability to leverage social media to predict load.  Events on
+					upcoming can be used to predict how many event attendees may not be home.  Tweets about 
+					people's plans, television interests and even mood hold the key to predicting consumption.	
+				</div>
+			</div>
+			<div style="clear: both;">&nbsp;</div>
+			
+				<h2>Upcoming Events on the Cape</h2>
+				<p />
+				<ul>
+				<%@events.each { |e|%>
+					<li><%=e['start_date']%> - <%=e['name']%></li>
+				
+				<%}%>
+				</ul>
+			
+			
+			<b></b>
+
+ 		
+<h2>
+
+	 </h2>
+			
+			
+
+
+		</div>
+		<!-- end #content -->
+		<div id="sidebar">
+			<ul>
+				<li>
+					<h2>Lastest Images </h2>
+					
+					
+					
+				</li>
+				
+				from Cape Cod residents
+				
+				<li>
+				
+			
+
+			<% @count=0
+				@images[0,9].each { |i|
+					@count += 1%>
+					<img src='<%=i%>' border="0"> 
+					<%if @count % 3 == 0%>
+					<%count=0%><br />
+					<%end%>
+				
+				<%}%>
+				
+
+<div id="weather_info"></div>
+				<p />
+		 
+		</div>
+		<!-- end #sidebar -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	<!-- end #page -->
+</div>
+<div id="footer-content">
+
+
+
+
+</div>
+<div id="footer">
+
+</div>
+<!-- end #footer -->
+ 
+
+
+ 
+
+ 
+<script type="text/javascript">
+var slider;
+
+ 
+</script>
