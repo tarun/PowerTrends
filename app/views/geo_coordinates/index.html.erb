@@ -1,0 +1,24 @@
+<h1>Listing geo_coordinates</h1>
+
+<table>
+  <tr>
+    <th>Place</th>
+    <th>Latitude</th>
+    <th>Longitude</th>
+  </tr>
+
+<% @geo_coordinates.each do |geo_coordinate| %>
+  <tr>
+    <td><%=h geo_coordinate.place %></td>
+    <td><%=h geo_coordinate.latitude %></td>
+    <td><%=h geo_coordinate.longitude %></td>
+    <td><%= link_to 'Show', geo_coordinate %></td>
+    <td><%= link_to 'Edit', edit_geo_coordinate_path(geo_coordinate) %></td>
+    <td><%= link_to 'Destroy', geo_coordinate, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New geo_coordinate', new_geo_coordinate_path %>

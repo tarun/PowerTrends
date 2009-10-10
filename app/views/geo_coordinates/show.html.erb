@@ -1,0 +1,18 @@
+<p>
+  <b>Place:</b>
+  <%=h @geo_coordinate.place %>
+</p>
+
+<p>
+  <b>Latitude:</b>
+  <%=h @geo_coordinate.latitude %>
+</p>
+
+<p>
+  <b>Longitude:</b>
+  <%=h @geo_coordinate.longitude %>
+</p>
+
+
+<%= link_to 'Edit', edit_geo_coordinate_path(@geo_coordinate) %> |
+<%= link_to 'Back', geo_coordinates_path %>

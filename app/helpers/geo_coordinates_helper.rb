@@ -1,0 +1,2 @@
+module GeoCoordinatesHelper
+end

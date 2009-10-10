@@ -1,0 +1,23 @@
+<h1>New geo_coordinate</h1>
+
+<% form_for(@geo_coordinate) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :place %><br />
+    <%= f.text_field :place %>
+  </p>
+  <p>
+    <%= f.label :latitude %><br />
+    <%= f.text_field :latitude %>
+  </p>
+  <p>
+    <%= f.label :longitude %><br />
+    <%= f.text_field :longitude %>
+  </p>
+  <p>
+    <%= f.submit 'Create' %>
+  </p>
+<% end %>
+
+<%= link_to 'Back', geo_coordinates_path %>
