@@ -19,11 +19,53 @@
 				<p class="meta">ENERGY SAVINGS = FIXED POTHOLES</p>
 				<div class="entry">
 				
-				<iframe width="600" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=brooklyn,ny&amp;sll=37.0625,-95.677068&amp;sspn=40.27343,82.880859&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;z=13&amp;ll=40.650104,-73.949582&amp;output=embed"></iframe><br /><small></small>
+				<iframe width="600" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=brooklyn,ny&amp;sll=37.0625,-95.677068&amp;sspn=40.27343,82.880859&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;z=13&amp;ll=40.650104,-73.949582&amp;output=embed"></iframe><br /><small></small>
 			
 				</div>
 			</div>
 			<div style="clear: both;">&nbsp;</div>
+			
+			
+			<b></b>
+
+<% @city1 = params[:city1] ? params[:city1] : 'Bourne'
+@city2 = params[:city2] ? params[:city2] : 'Brewster'%>
+			
+			
+<h2>
+	<select name="ShortCuts1" size="1" style="color: #000099; width: 247px; font-size: 22px; line-height: 21px; 
+		font-family: arial, helvetica, sans-serif; background-color: #dcdcdc; border: solid 1pt; #000099" 
+		onchange="if (this.options[selectedIndex].value != '') window.frames.frame_one.location.href = this.options[this.selectedIndex].value;">
+			<% @cities.each { |i,c| %>
+			<option value="http://capelight.groundedpower.com/feed/yahoo_display?town=<%=c%>" <%if @city1 == c%> SELECTED<%end%>><%=c%></option>
+			<% }%>
+		
+		</select> 
+
+		
+	 VS 	
+	 
+	<select name="ShortCuts1" size="1" style="color: #000099; width: 247px; font-size: 22px; line-height: 21px; 
+		font-family: arial, helvetica, sans-serif; background-color: #dcdcdc; border: solid 1pt; #000099" 
+		onchange="if (this.options[selectedIndex].value != '') window.frames.frame_two.location.href = this.options[this.selectedIndex].value;">
+			<% @cities.each { |i,c| %>
+			<option value="http://capelight.groundedpower.com/feed/yahoo_display?town=<%=c%>" <%if @city2 == c%> SELECTED<%end%>><%=c%></option>
+			<% }%>
+		
+		</select> 
+		
+	 </h2>
+			
+			
+<iframe name="frame_one" src ="http://capelight.groundedpower.com/feed/yahoo_display?town=Bourne" width="100%" height="150">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+
+<iframe name="frame_two" src ="http://capelight.groundedpower.com/feed/yahoo_display?town=Brewster" width="100%" height="150">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
 		</div>
 		<!-- end #content -->
 		<div id="sidebar">
@@ -31,50 +73,41 @@
 				<li>
 					<h2>Currently</h2>
 					
-					<div id="weather_info"></div>
+					
 					
 				</li>
 				<li>
 				
-				<div id="twtr-search-widget"></div>
+
+<div id="twtr-search-widget"></div>
 <script src="http://widgets.twimg.com/j/1/widget.js"></script>
 <link href="http://widgets.twimg.com/j/1/widget.css" type="text/css" rel="stylesheet">
 <script>
 new TWTR.Widget({
-  search: '#hackdaynyc',
-  id: 'twtr-search-widget',
-  loop: true,
-  title: 'Pot Hole Contest',
-  subject: '',
-  width: 250,
-  height: 300,
-  theme: {
-    shell: {
-      background: '#3082af',
-      color: '#ffffff'
-    },
-    tweets: {
-      background: '#ffffff',
-      color: '#444444',
-      links: '#1985b5'
-    }
-  }
+search: '#powertrends',
+id: 'twtr-search-widget',
+loop: true,
+title: 'Power Trends',
+subject: 'Cape Cod, MA',
+width: 250,
+height: 300,
+theme: {
+shell: {
+background: '#ad3030',
+color: '#ffffff'
+},
+tweets: {
+background: '#ffffff',
+color: '#444444',
+links: '#1985b5'
+}
+}
 }).render().start();
 </script>
+
+<div id="weather_info"></div>
 				<p />
-					<h2>Categories</h2>
-					<ul>
-						<li><span>09.13.09</span><a href="#">Vestibulum risus vitae</a></li>
-						<li><span>09.13.09</span><a href="#">Condimentum et molestie</a></li>
-						<li><span>09.13.09</span><a href="#">Facilisis sed vestibulum</a></li>
-						<li><span>09.13.09</span><a href="#">Ipsum primis et sed luctus </a></li>
-						<li><span>09.13.09</span><a href="#">Ultrices posuere nulla </a></li>
-						<li><span>09.13.09</span><a href="#">Accumsan lorem sodales </a></li>
-						<li><span>09.13.09</span><a href="#">Scelerisque consectetur </a></li>
-						<li><span>09.13.09</span><a href="#">Maecenas quam aliquet</a></li>
-					</ul>
-				</li>
-			</ul>
+		 
 		</div>
 		<!-- end #sidebar -->
 		<div style="clear: both;">&nbsp;</div>
@@ -84,9 +117,6 @@ new TWTR.Widget({
 <div id="footer-content">
 
 
-<iframe src ="http://capelight.groundedpower.com/feed/yahoo_display?town=Bourne" width="100%" height="150">
-  <p>Your browser does not support iframes.</p>
-</iframe>
 
 
 </div>
