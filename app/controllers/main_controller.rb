@@ -47,6 +47,31 @@ class MainController < ApplicationController
 	@cities = @cities.sort { |a,b| a[1] <=> b[1] }
   
   end
+  
+  def utility
+  	url = 'http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20flickr.photos.search%20where%20has_geo%3D%22true%22%20and%20text%3D%22cape%20cod%22&format=json&diagnostics=false&callback='
+    resp = Net::HTTP.get_response(URI.parse(url))
+    data = resp.body
+    result = JSON.parse(data)
+    #@point = data
+    @images = []
+     result['query']['results']['photo'].each { |l|
+    
+    	@images << 'http://farm' + l['farm'] + '.static.flickr.com/' + l['server'] + '/' + l['id'] + '_' + l['secret'] + '_s.jpg'
+    
+    }
+    
+    
+    # upcoming
+    url = 'http://upcoming.yahooapis.com/services/rest/?method=event.search&api_key=1bb666b1b0&location=Cape%20Cod,MA&radius=50&min_date=2009-10-12&max_date=2009-10-20&format=json'
+   resp = Net::HTTP.get_response(URI.parse(url))
+    data = resp.body
+    result = JSON.parse(data)
+    @events = result['rsp']['event']
+    
+    
+  
+  end
 
   def get_weather
     zipcode = params[:zipcode]
