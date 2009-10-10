@@ -1,5 +1,22 @@
+<% content_for :head do %>
+  <script type="text/javascript">
+function updateWeather(zipcode) {
+    $.ajax({
+        type: "GET",
+        url: "/main/get_weather?zipcode="+zipcode,
+        dataType: "text",
+        success: function(data) {
+              $("#weather_info").html(data);              
+        }
+    });
+}
+	
+$(document).ready(function(){
+  updateWeather(10036);
+});
 
-
+</script>
+<% end %>
 <div id="wrapper">
 	<div id="header">
 		<div id="logo">
@@ -95,23 +112,3 @@ new TWTR.Widget({
 </div>
 <!-- end #footer -->
  
-
-
- 
-
- 
-<script type="text/javascript">
-var slider;
-
-function updateWeather() {
-    $.ajax({
-        type: "GET",
-        url: "/main/get_weather?zipcode=10036",
-        dataType: "text",
-        success: function(data) {
-           // alert("2");
-              $("#weather_info").html(data);              
-        }
-    });
-}
-</script>
