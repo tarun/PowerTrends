@@ -20,27 +20,29 @@
 		<div id="content">
 			
 			<div class="post">
-				<h2 class="title"><a href="#">Forecast Demand with Social Media</a></h2> 
-				<p class="meta">RT @m1keb I am going to use so much energy tomorrow! </p>
+				<h2 class="title"><a href="#">What's Going on Here?</a></h2> 
+				
 				<div class="entry">
 	
-					It is imperative for today's utilities to keep the proper energy available to meet demand.
-					Storage is difficulty and predictive modeling only gets you so far.  Power Trends 3000
-					allows energy providers the ability to leverage social media to predict load.  Events on
-					upcoming can be used to predict how many event attendees may not be home.  Tweets about 
-					people's plans, television interests and even mood hold the key to predicting consumption.	
+					Power Trends 3000 was built by <br />
+						<p />
+						<ul>
+							<li>Hrishikesh Bakshi</li>
+							<li>Tarun Kothuri </li>
+							<li>Mike Bukhin</li>
+						</ul>
+						<p />
+					as part of Y! Hack Day NYC 2009	<br />
+					<img src='http://ycorpblog.com/wp-content/uploads/2009/09/openhacknyc.jpg'>
+					<br />
+					Thanks to everyone at Yahoo for their support.
+					
 				</div>
 			</div>
 			<div style="clear: both;">&nbsp;</div>
 			
-				<h2>Upcoming Events on the Cape</h2>
-				<p />
-				<ul>
-				<%@events.each { |e|%>
-					<li><%=e['start_date']%> - <%=e['name']%></li>
-				
-				<%}%>
-				</ul>
+				 
+			 
 			
 			
 			<b></b>
@@ -57,28 +59,9 @@
 		<!-- end #content -->
 		<div id="sidebar">
 			<ul>
-				<li>
-					<h2>Lastest Images </h2>
-					
-					
-					
-				</li>
-				
-				from Cape Cod residents
-				
-				<li>
-				
 			
 
-			<% @count=0
-				@images[0,9].each { |i|
-					@count += 1%>
-					<img src='<%=i%>' border="0"> 
-					<%if @count % 3 == 0%>
-					<%count=0%><br />
-					<%end%>
-				
-				<%}%>
+		 
 				
 
 <div id="weather_info"></div>
